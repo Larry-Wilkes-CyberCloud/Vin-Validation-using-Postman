@@ -47,10 +47,6 @@
         </tr>
     </table>
     <br>
-    <a href="https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman/assets/93053015/4d369e0f-8d8a-40fa-a2a4-a5cef6b845e8">
-        <img src="https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman/assets/93053015/4d369e0f-8d8a-40fa-a2a4-a5cef6b845e8" width="500" height="500" alt="GitHub Asset">
-    </a>
+    <img src="https://github.com/Larry-Wilkes-CyberCloud/Vin-Validation-using-Postman/assets/93053015/c7d9d436-a935-4952-aee1-fad8a640375c" width="1000" height="500" alt="GitHub Asset">
 </body>
 </html>
-
-
