@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vin-Validation-Using-Postman</title>
-</head>
+    </head>
 <body>
     <h1>Vin-Validation-Using-Postman</h1>
     <p>
