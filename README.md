@@ -1,4 +1,4 @@
-# Vin-Validation-using-Postman
+# Vin-Validation-Using-Postman
 
 As a QA Engineer at General Insurance INC., I have conducted thorough test cases to verify the validation of vehicle VIN numbers. This project focused on ensuring that the vehicle creation endpoint correctly handles various scenarios related to VIN number validation, maintaining data integrity and adhering to the required specifications.
 
