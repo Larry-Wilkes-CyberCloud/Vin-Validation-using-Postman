@@ -4,6 +4,13 @@
   <p>
     As a QA Engineer at General Insurance INC., I have conducted thorough test cases to verify the validation of vehicle VIN numbers. This project focused on ensuring that the vehicle creation endpoint correctly handles various scenarios related to VIN number validation, maintaining data integrity, and adhering to the required specifications.
   </p>
+  <h3>Test Case Outline:</h3>
+  <ol>
+    <li>Verify that the user is able to successfully save driver information with a valid vin number. Status code 201 received.</li>
+    <li>Send a request with vin as alphanumeric characters, request should process successfully.</li>
+    <li>Send a request with vin greater than 20 characters, error message received with status code 400.</li>
+    <li>Send a request with special characters in the vin number, error message received with status code 400.</li>
+  </ol>
   <h3>Test Case Results:</h3>
   
   <!-- Test Case 1 -->
@@ -166,5 +173,3 @@
   </table>
   <br>
 </div>
-
-
